@@ -2,6 +2,8 @@ public class Main {
     public static void main(String[] args) {
 
 
+        // Editado por CamilaT22 a la 01:04 am
+
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
         toyo.avanzar();
